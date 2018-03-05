@@ -1,0 +1,22 @@
+{
+  "name": "react-native-addcarview",
+  "version": "1.0.0",
+  "description": "一个简单实用的实现添加购物车动画的控件",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puti94/react-native-addcarview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puti94/react-native-addcarview/issues"
+  },
+  "homepage": "https://github.com/puti94/react-native-addcarview#readme"
+}
