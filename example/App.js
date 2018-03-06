@@ -44,7 +44,7 @@ export default class App extends Component<Props> {
                             this.setState({number: this.state.number += 1})
                         }
                     })
-                }}>添加购物车(传入控件)</Button>
+                }}/>
                 <Button title={'添加购物车(传入坐标)'} onPress={() => {
                     startAddShopAnim(this.renderCarImage(), {
                         beforeValue: {x: 200, y: 200},
